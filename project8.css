@@ -1,0 +1,59 @@
+.nav {
+	background-color: #330066;
+	height: 60px;
+	word-spacing: 10px;
+
+}
+
+.home {
+	color: white;
+	margin-left: 50px;
+	float: left;
+	margin-top: 10px;
+    
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.main {
+	height: auto;
+}
+
+.blog {
+	color: white;
+	margin-left: 50px;
+	float: left;
+	margin-top: 10px;
+}
+
+body {
+    background-color: #585858;
+}
+
+h2 {
+    margin-left: 150px;
+    color: #585858;
+}
+
+.press1 {
+	height: 50px;
+    width: 50px;
+    background-color: #330066;
+    border-radius: 5px;
+    /* display: inline-block;  */
+    margin-top: 50px;
+    margin-left: 300px;
+    -webkit-box-shadow: 0 0 4px 6px #660066;
+   	-moz-box-shadow: 0 0 4px 6px #660066;
+        box-shadow: 0 0 4px 6px #99CCFF;
+}
+
+.press1 p {
+    color: white;
+    font-size: 12px;
+    text-align: center;
+}
+
